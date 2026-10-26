@@ -1,7 +1,7 @@
 {
   "appTitle": "Verity Mod for MCPE",
   "updateNotice": "Updated for MCPE 1.20 - 1.21 Tricky Trials & Bedrock Edition",
-  "enable_rating_dialog": true,
+  "enable_rating_dialog": false,
   "rating_url": "https://www.amazon.com/gp/mas/dl/android?p=com.mercystudio.veritymod.mcpe",
   "categories": [
     {
