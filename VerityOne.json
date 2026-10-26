@@ -23,8 +23,8 @@
       "title": "Exclusive Shaders & Texture Pack Sale",
       "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&q=80",
       "redirect_url": "https://www.amazon.com/gp/mas/dl/android?p=com.mercystudio.veritymod.mcpe"
-    }
-  "categories": [
+    },
+  "categories",":", [
     {
       "id": "all",
       "name": "All Mods",
@@ -61,7 +61,7 @@
       "badge": "Transform"
     }
   ],
-  "mods": [
+  "mods",":", [
     {
       "id": "Verity_Addon",
       "title": "Verity Addon",
@@ -264,5 +264,5 @@
       ]
     }
     
-  ]
+  ]]
 }
