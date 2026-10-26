@@ -60,7 +60,7 @@
   "mods": [
     {
       "id": "mod_dragons",
-      "title": "Verity Dragon Forge Addon",
+      "title": "hello Dragon Forge Addon",
       "category": "addons",
       "mcpeVersion": "1.20 - 1.21.30+",
       "fileSize": "24.6 MB",
