@@ -33,7 +33,7 @@
     }
   ],
   "search": {
-    "enabled": true,
+    "enabled": false,
     "placeholder": "Search MCPEDL live database (e.g. morph, naruto, guns, modern furniture, shaders, zombie...)",
     "quickSearches": [
       {
