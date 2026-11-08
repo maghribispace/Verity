@@ -1,15 +1,13 @@
 {
   "version": 1,
-  "appTitle": "Verity Mod",
-  "updateNotice": "Live MCPEDL catalog • 19 addons • Updated 2026-11-07",
+  "appTitle": "MCPEDL Live Addons Explorer",
+  "updateNotice": "Live MCPEDL catalog • 19 addons • Updated 2026-11-08",
   "enable_rating_dialog": false,
   "rating_url": "",
   "force_update": false,
   "update_title": "Update Available",
   "update_message": "A new live catalog is ready. Update to get the latest addons.",
   "update_url": "",
-  "enable_promo_mode": false,
-  "promo_items": [],
   "categories": [
     {
       "id": "all",
@@ -33,7 +31,7 @@
     }
   ],
   "search": {
-    "enabled": false,
+    "enabled": true,
     "placeholder": "Search MCPEDL live database (e.g. morph, naruto, guns, modern furniture, shaders, zombie...)",
     "quickSearches": [
       {
